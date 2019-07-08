@@ -9,8 +9,8 @@
 
 # more information
 
-a. Gost Wiki: https://docs.ginuerzh.xyz/gost/
-b. Telegram Group: https://t.me/gogost
-c. SwitchyOmega: https://github.com/FelisCatus/SwitchyOmega/releases
-d. GFWList: https://github.com/gfwlist/gfwlist
-e. WhiteList: https://github.com/neko-dev/gfw_whitelist
+1. Gost Wiki: https://docs.ginuerzh.xyz/gost/
+2. Telegram Group: https://t.me/gogost
+3. SwitchyOmega: https://github.com/FelisCatus/SwitchyOmega/releases
+4. GFWList: https://github.com/gfwlist/gfwlist
+5. WhiteList: https://github.com/neko-dev/gfw_whitelist
