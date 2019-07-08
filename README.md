@@ -9,7 +9,7 @@
 
 # more information
 
-Gost Wiki: https://docs.ginuerzh.xyz/gost/  
+*Gost Wiki*: https://docs.ginuerzh.xyz/gost/  
 Telegram Group: https://t.me/gogost  
 SwitchyOmega: https://github.com/FelisCatus/SwitchyOmega/releases  
 GFWList: https://github.com/gfwlist/gfwlist  
