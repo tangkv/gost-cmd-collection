@@ -1,0 +1,16 @@
+# strategy for node selecting
+strategy        random
+
+max_fails       1
+
+fail_timeout    10s
+
+# period for live reloading
+reload          5s
+
+# peers
+peer    ss+mws://method:code@yourapp.herokuapp.com:80
+peer    ss+mws://method:code@yourapp.herokuapp.com:80
+peer    ss+mws://method:code@yourapp.herokuapp.com:80
+peer    ss+mws://method:code@yourapp.herokuapp.com:80
+peer    ss+mws://method:code@yourapp.herokuapp.com:80
